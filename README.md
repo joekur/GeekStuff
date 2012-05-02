@@ -1,0 +1,4 @@
+GeekStuff
+=========
+
+bash settings, etc
